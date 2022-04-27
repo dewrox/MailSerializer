@@ -1,6 +1,6 @@
 using MimeKit;
 
-namespace Dewrox.Serializer.Mail
+namespace Dewrox.MailSerializer
 {
     public class MailSerializer
     {
